@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		043AA6BD26C4179D00102C7B /* Clone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043AA6BC26C4179D00102C7B /* Clone.swift */; };
 		045ACD8226BE61E900EF88D5 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045ACD8126BE61E900EF88D5 /* LoginViewModel.swift */; };
 		0478AF5426BA3AC00006A9D2 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478AF5226BA3AC00006A9D2 /* RegisterViewController.swift */; };
 		0478AF5526BA3AC00006A9D2 /* RegisterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0478AF5326BA3AC00006A9D2 /* RegisterViewController.xib */; };
@@ -34,7 +33,6 @@
 /* Begin PBXFileReference section */
 		0433F9C626B6816900E5947E /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0433F9C726B6824500E5947E /* Trait.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Trait.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		043AA6BC26C4179D00102C7B /* Clone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clone.swift; sourceTree = "<group>"; };
 		045ACD8126BE61E900EF88D5 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 		045ACD8326BED8E800EF88D5 /* Relay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Relay.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0478AF5226BA3AC00006A9D2 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
@@ -134,7 +132,6 @@
 			isa = PBXGroup;
 			children = (
 				0478AF6626BBD4790006A9D2 /* Profile.swift */,
-				043AA6BC26C4179D00102C7B /* Clone.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -336,7 +333,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0478AF7E26BD19C20006A9D2 /* DetailViewController.swift in Sources */,
-				043AA6BD26C4179D00102C7B /* Clone.swift in Sources */,
 				0493C03A26AE91B8004C3992 /* ViewController.swift in Sources */,
 				0478AF6926BBD68C0006A9D2 /* ProfileViewModel.swift in Sources */,
 				0478AF5926BBA9A00006A9D2 /* RegisterViewModel.swift in Sources */,
