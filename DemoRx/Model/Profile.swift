@@ -12,5 +12,5 @@ struct Profile {
   
   var name : String?
   var image: String?
-  var coyday : String?
+  var ukketao : String?
 }
